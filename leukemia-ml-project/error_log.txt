@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "C:\Users\kallu\OneDrive\Desktop\v\leukemia-ml-project\api.py", line 93, in predict
+    "cellsSegmented": int(cells),
+                      ~~~^^^^^^^
+TypeError: only 0-dimensional arrays can be converted to Python scalars
